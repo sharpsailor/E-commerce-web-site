@@ -1,0 +1,112 @@
+{
+    "products": [{
+            "id": 6,
+            "title": "Crane Scale",
+            "image": "./images/products/crane/img1.jpg",
+            "price": 0,
+            "category": "Crane Scale"
+        },
+
+        {
+            "id": 3,
+            "title": "Jwellery Scale",
+            "image": "./images/products/jwellery/img1.jpg",
+            "price": 0,
+            "category": "Jwellery Scale"
+        },
+        {
+            "id": 4,
+            "title": "Baby Weight Scale",
+            "image": "./images/products/baby/img1.jpg",
+            "price": 0,
+            "category": "Baby Weight Scale"
+        },
+        {
+            "id": 8,
+            "title": "Glossary Shop Scale",
+            "image": "./images/products/glossary/img1.png",
+            "price": 0,
+            "category": "Glossary Shop Scale"
+        },
+        {
+            "id": 5,
+            "title": "Libra Weighing Scale",
+            "image": "./images/products/libra/img1.jpg",
+            "price": 0,
+            "category": "Libra Weighing Scale"
+        },
+
+        {
+            "id": 7,
+            "title": "Dairy Machinery Equipment",
+            "image": "./images/products/dairy/img1.png",
+            "price": 0,
+            "category": "Dairy Machinery Equipment"
+        },
+
+        {
+            "id": 10,
+            "title": "Glossary Shop Scale",
+            "image": "./images/products/glossary/img2.jpg",
+            "price": 0,
+            "category": "Glossary Shop Scale"
+        },
+        {
+            "id": 11,
+            "title": "Tank Weighing Scale",
+            "image": "./images/products/tank/img1.png",
+            "price": 0,
+            "category": "Tank Weighing Scale"
+        },
+        {
+            "id": 13,
+            "title": "Dairy Machinery Equipment",
+            "image": "./images/products/dairy/img2.png",
+            "price": 0,
+            "category": "Dairy Machinery Equipment"
+        },
+        {
+            "id": 12,
+            "title": "Laboratory Weighing",
+            "image": "./images/products/lab/img1.png",
+            "price": 0,
+            "category": "Laboratory Weighing"
+        },
+
+        {
+            "id": 14,
+            "title": "Weighing Machine for kitchen",
+            "image": "./images/products/kitchen/img1.jpg",
+            "price": 0,
+            "category": "Weighing Machine for kitchen"
+        },
+        {
+            "id": 9,
+            "title": "Laboratory Weighing",
+            "image": "./images/products/lab/img2.png",
+            "price": 0,
+            "category": "Laboratory Weighing"
+        },
+        {
+            "id": 15,
+            "title": "Weighting Machine for Meat Shop",
+            "image": "./images/products/meat/img1.png",
+            "price": 0,
+            "category": "Weighting Machine for Meat Shop"
+        },
+        {
+            "id": 16,
+            "title": "All type of Milk Machine",
+            "image": "./images/products/milk/img1.jpg",
+            "price": 0,
+            "category": "All type of Milk Machine"
+        },
+        {
+            "id": 2,
+            "title": "Weighting Machine for Meat Shop",
+            "image": "./images/products/meat/img2.png",
+            "price": 0,
+            "category": "Weighting Machine for Meat Shop"
+        }
+    ]
+}
